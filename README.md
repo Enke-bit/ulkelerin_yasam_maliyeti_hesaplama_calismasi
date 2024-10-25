@@ -53,6 +53,9 @@ Projenin kullanılabilir hale getirilmesi için aşağıdaki adımları izleyebi
 Bu proje [License.txt] altında lisanslanmıştır.
 
 ## İletişim
+ibrahimpuskullu44@gmail.com 
+
+## İletişim
 
 Proje hakkında daha fazla bilgi almak veya katkıda bulunmak için [ibrahimpuskullu44@gmail.com] üzerinden iletişime geçebilirsiniz.
 
